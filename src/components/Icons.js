@@ -1,8 +1,8 @@
 import React from "react";
 
 class Icons extends React.Component {
-		weatherSwitch(statement) {
-				switch(statement) {
+		weatherSwitch(idCode) {
+				switch(idCode) {
 					case 800:
 						return(
 							<div>
