@@ -608,3 +608,41 @@ button:active {
       #EEEEEE 90px 35px;
   }
 }
+
+/*_____________MEDIA QUERIES_____________*/
+
+/*_____Mobile_____*/
+@media only screen and (max-device-width: 420px) and (min-device-width: 320px) {
+  .wrapper {
+    display: inline-block;
+    height: 210vh;
+    padding-top: 35px;
+  }
+
+  .form-container {
+    height: 110vh;
+  }
+}
+
+/*_____iPad_____*/
+@media only screen and (max-device-width: 768px) and (min-device-width: 420px) {
+  .title-container__title {
+    font-size: 40px;
+  }
+}
+
+/*_____iPhone 5/SE_____*/
+
+@media only screen and (max-device-width: 320px) {
+  .title-container__title {
+    font-size: 40px;
+  }
+
+  .wrapper {
+    height: 252vh;
+  }
+
+  .form-container {
+    height: 150vh;
+  }
+}
