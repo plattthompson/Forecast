@@ -1,15 +1,15 @@
 {
-  "main.css": "/forecast/static/css/main.2fb7c65c.chunk.css",
-  "main.js": "/forecast/static/js/main.a6691977.chunk.js",
-  "main.js.map": "/forecast/static/js/main.a6691977.chunk.js.map",
+  "main.css": "/forecast/static/css/main.44b2e571.chunk.css",
+  "main.js": "/forecast/static/js/main.896d446d.chunk.js",
+  "main.js.map": "/forecast/static/js/main.896d446d.chunk.js.map",
   "runtime~main.js": "/forecast/static/js/runtime~main.a396a40d.js",
   "runtime~main.js.map": "/forecast/static/js/runtime~main.a396a40d.js.map",
   "static/css/2.28da17b9.chunk.css": "/forecast/static/css/2.28da17b9.chunk.css",
   "static/js/2.ad01f207.chunk.js": "/forecast/static/js/2.ad01f207.chunk.js",
   "static/js/2.ad01f207.chunk.js.map": "/forecast/static/js/2.ad01f207.chunk.js.map",
   "index.html": "/forecast/index.html",
-  "precache-manifest.7c8792ecf485b1e62fff65347a00bbbf.js": "/forecast/precache-manifest.7c8792ecf485b1e62fff65347a00bbbf.js",
+  "precache-manifest.4bac235b7e294183933da9360b45c61c.js": "/forecast/precache-manifest.4bac235b7e294183933da9360b45c61c.js",
   "service-worker.js": "/forecast/service-worker.js",
   "static/css/2.28da17b9.chunk.css.map": "/forecast/static/css/2.28da17b9.chunk.css.map",
-  "static/css/main.2fb7c65c.chunk.css.map": "/forecast/static/css/main.2fb7c65c.chunk.css.map"
+  "static/css/main.44b2e571.chunk.css.map": "/forecast/static/css/main.44b2e571.chunk.css.map"
 }
